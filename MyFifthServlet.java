@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
  
-@WebServlet(name = "MyThirdServlet", urlPatterns = {"/MyThirdServlet"})
-public class MyThirdServlet extends HttpServlet {
+@WebServlet(name = "MyFifthServlet", urlPatterns = {"/MyFifthServlet"})
+public class MyFifthServlet extends HttpServlet {
  
     private static final long serialVersionUID = -1915463532411657451L;
  
